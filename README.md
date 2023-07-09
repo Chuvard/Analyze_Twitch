@@ -9,7 +9,7 @@ The given SQL tables include the following columns:
 
 	1. ‘time’			-  the time at which the visitor came to the page
 	2. ‘device_id’			- unique identifier for each visitor to a page
-	3. ‘login’			- unique number of login session
+	3. ‘login’			- unique number of a login session
 	4. ‘channel’			- identifies through which gamer’s channel the visitor comes to a site
 	5. ‘country’			- identifies which country the visitor belongs to
 	6. ‘player’			- identifies which platform the visitor uses to view a stream 
